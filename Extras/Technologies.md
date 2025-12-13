@@ -32,5 +32,8 @@
 - SonarQube (Static Analysis)
 - k6 (Load Testing)
 - Github Actions (CI/CD Pipeline)
+
+# Deployment:
+
 - Docker 
 - Docker Compose
